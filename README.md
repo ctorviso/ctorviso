@@ -25,14 +25,20 @@
 
 ### 📚 Librerías de Python
 
-|---|---|
 | 🧮 Manipulación de datos y análisis | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) |
+|---|---|
 | 📊 Visualización de datos           | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib) ![Seaborn](https://img.shields.io/badge/-Seaborn-9A1F63) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly) ![Folium](https://img.shields.io/badge/-Folium-77B829) |
+|---|---|
 | 🤖 Machine Learning & Deep Learning | ![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras) |
+|---|---|
 | 🕸️ Web Scraping                     | ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-8BBF9F) ![requests](https://img.shields.io/badge/-requests-005571) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white) |
+|---|---|
 | 🗄️ Bases de datos                   | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql) |
+|---|---|
 | 📈 Dashboards                       | ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white) |
+|---|---|
 | 🔥 Big Data                         | ![Pyspark](https://img.shields.io/badge/-Pyspark-E25A1C) |
+|---|---|
 | 🗣️ NLP                              | ![NLTK](https://img.shields.io/badge/-NLTK-4B8BBE) |
 |---|---|
 
