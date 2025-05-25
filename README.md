@@ -10,7 +10,7 @@
 - 🧪 Empecé con **R**, pero ahora uso **Python** y **SQL**.
 - 🎯 Me encantaría aplicar mis conocimientos en **proyectos reales**.
 - 👋🏻 Soy curiosa, proactiva y disfruto de los **retos** y el **aprendizaje continuo**.
-- 🐶 Amante de los **perros**, los **libros** 📚 y la **naturaleza** 🌿.
+- ❤️ Amante de los **perros** 🐶, los **libros** 📚, la **música** 🎷, la **naturaleza** 🌿 y el **mar** 🌊.
 
 ---
 
