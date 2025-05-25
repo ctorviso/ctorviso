@@ -10,7 +10,7 @@
 - 🧪 Empecé con **R**, pero ahora uso **Python** y **SQL**.
 - 🎯 Me encantaría aplicar mis conocimientos en **proyectos reales**.
 - 👋🏻 Soy curiosa, proactiva y disfruto de los **retos** y el **aprendizaje continuo**.
-- ❤️ Amante de los **perros** 🐶, los **libros** 📚, la **música** 🎷, la **naturaleza** 🌿 y el **mar** 🌊.
+- ❤️ Amante de los perros 🐶, los libros 📚, la música 🎷, la naturaleza 🌿 y el mar 🌊.
 
 ---
 
@@ -54,6 +54,6 @@
 
 ---
 
-✨ Actualmente en búsqueda de nuevas oportunidades para aplicar mis habilidades en análisis y ciencia de datos.  
-🚀 Si quieres colaborar o simplemente charlar sobre tecnología, ¡no dudes en contactarme!
+✨ Actualmente me encuentro buscando nuevas oportunidades para aplicar mis habilidades en análisis y ciencia de datos.  
+🚀 Si quieres colaborar o simplemente charlar conmigo, ¡no dudes en contactarme!
 
