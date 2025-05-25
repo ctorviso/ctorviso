@@ -17,6 +17,7 @@
 ## 🧠 Skills
 
 ### 🗣 Lenguajes
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 
@@ -45,7 +46,7 @@
 **Bases de datos:**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
 
-**Dashboards:**  
+**Dashboards:** 
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
 **Big Data:**  
@@ -55,9 +56,15 @@
 ![NLTK](https://img.shields.io/badge/-NLTK-4B8BBE)
 
 ---
+## 📊 Análisis de datos
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/-Power%20Query-31752F?logo=microsoft&logoColor=white)
 
+---
 ## 🛠 Softwares y otras herramientas
 
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)
