@@ -19,8 +19,6 @@
 ### 🗣 Lenguajes
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-![Matlab](https://img.shields.io/badge/-Matlab-orange)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 
 ### 📚 Librerías de Python
 
