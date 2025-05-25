@@ -33,6 +33,7 @@
 | 📈 Dashboards                       | ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white) |
 | 🔥 Big Data                         | ![Pyspark](https://img.shields.io/badge/-Pyspark-E25A1C) |
 | 🗣️ NLP                              | ![NLTK](https://img.shields.io/badge/-NLTK-4B8BBE) |
+|---|---|
 
 ---
 
